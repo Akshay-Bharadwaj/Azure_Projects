@@ -1,0 +1,2 @@
+- Domain is used to manage services like group policies, LDAP, authentication and help users to utilize AD functionalities
+- Groups are created in order to give permissions on the whole instead of assigning them to individual AD users
